@@ -1,0 +1,8 @@
+1289139095
+Application	/home/luciano/lsousa-projects/called/config/application.rb	  class Application 
+ApplicationController	/home/luciano/lsousa-projects/called/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/luciano/lsousa-projects/called/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/home/luciano/lsousa-projects/called/test/performance/browsing_test.rb	class BrowsingTest 
+Called	/home/luciano/lsousa-projects/called/config/application.rb	module Called
+TestCase	/home/luciano/lsousa-projects/called/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	/home/luciano/lsousa-projects/called/test/performance/browsing_test.rb	  def test_homepage
