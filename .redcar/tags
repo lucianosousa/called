@@ -1,8 +1,12 @@
-1289139212
+1289264518
 Application	/home/luciano/lsousa-projects/called/config/application.rb	  class Application 
 ApplicationController	/home/luciano/lsousa-projects/called/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/luciano/lsousa-projects/called/app/helpers/application_helper.rb	module ApplicationHelper
 BrowsingTest	/home/luciano/lsousa-projects/called/test/performance/browsing_test.rb	class BrowsingTest 
 Called	/home/luciano/lsousa-projects/called/config/application.rb	module Called
+CreateUsers	/home/luciano/lsousa-projects/called/db/migrate/20101109004848_create_users.rb	class CreateUsers 
 TestCase	/home/luciano/lsousa-projects/called/test/test_helper.rb	class ActiveSupport::TestCase
+User	/home/luciano/lsousa-projects/called/app/models/user.rb	class User 
+down	/home/luciano/lsousa-projects/called/db/migrate/20101109004848_create_users.rb	  def self.down
 test_homepage	/home/luciano/lsousa-projects/called/test/performance/browsing_test.rb	  def test_homepage
+up	/home/luciano/lsousa-projects/called/db/migrate/20101109004848_create_users.rb	  def self.up
